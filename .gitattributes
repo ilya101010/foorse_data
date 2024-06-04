@@ -1,0 +1,6 @@
+spo1/2023 filter=lfs diff=lfs merge=lfs -text
+spo1 filter=lfs diff=lfs merge=lfs -text
+vpo1 filter=lfs diff=lfs merge=lfs -text
+spo1_2023_full.db filter=lfs diff=lfs merge=lfs -text
+vpo1_2022.db filter=lfs diff=lfs merge=lfs -text
+*.db filter=lfs diff=lfs merge=lfs -text
